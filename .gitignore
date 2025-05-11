@@ -25,4 +25,4 @@ dist-ssr
 
 # Outros
 keep.png
-token.txt
+.env
